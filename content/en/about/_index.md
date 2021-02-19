@@ -7,14 +7,11 @@ publishdate: 2017-02-01
 lastmod: 2017-02-01
 categories: []
 keywords: []
-menu:
-  docs:
-    parent: "about"
-    weight: 1
 weight: 1
-draft: false
-aliases: [/about-hugo/,/docs/]
+aliases:
+- "/about-hugo/"
+- "/docs/"
 toc: false
----
 
+---
 Hugo is not your average static site generator.

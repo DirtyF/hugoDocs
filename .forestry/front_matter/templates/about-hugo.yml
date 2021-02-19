@@ -35,3 +35,5 @@ fields:
 - type: boolean
   name: toc
   label: toc
+pages:
+- content/en/about/_index.md
