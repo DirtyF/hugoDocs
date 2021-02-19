@@ -11,6 +11,8 @@ sections:
   label: Commands
   create: none
   match: "*.md"
+  templates:
+  - basic
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
