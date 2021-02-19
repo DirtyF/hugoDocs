@@ -7,11 +7,6 @@ sections:
 - type: heading
   label: English
 - type: directory
-  path: content/en/about
-  label: About
-  create: none
-  match: "**/*"
-- type: directory
   path: content/en/commands
   label: Commands
   create: none
